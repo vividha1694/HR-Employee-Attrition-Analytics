@@ -48,6 +48,15 @@ The project uses KNIME for data preparation and exploratory analysis, Power BI f
 
 ## Power BI Dashboard
 
+## Dashboard Preview
+
+### HR Overview
+![HR Overview](screenshots/HR_Overview.png)
+
+### Employee Insights
+![Employee Insights](screenshots/Employee_Insights.png)
+
+
 The interactive dashboard includes:
 
 - Workforce KPI cards
